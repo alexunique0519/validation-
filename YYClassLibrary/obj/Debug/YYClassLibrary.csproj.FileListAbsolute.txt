@@ -1,0 +1,37 @@
+D:\Conestoga\Computer Applications Development\MS Web Dev\YYoec\YYClassLibrary\obj\Debug\YYClassLibrary.csprojResolveAssemblyReference.cache
+D:\Conestoga\Computer Applications Development\MS Web Dev\YYoec\YYClassLibrary\bin\Debug\YYClassLibrary.dll
+D:\Conestoga\Computer Applications Development\MS Web Dev\YYoec\YYClassLibrary\bin\Debug\YYClassLibrary.pdb
+D:\Conestoga\Computer Applications Development\MS Web Dev\YYoec\YYClassLibrary\obj\Debug\YYClassLibrary.dll
+D:\Conestoga\Computer Applications Development\MS Web Dev\YYoec\YYClassLibrary\obj\Debug\YYClassLibrary.pdb
+C:\Users\yyan-cc\Desktop\YYoec\YYoec\YYClassLibrary\bin\Debug\YYClassLibrary.dll
+C:\Users\yyan-cc\Desktop\YYoec\YYoec\YYClassLibrary\bin\Debug\YYClassLibrary.pdb
+C:\Users\yyan-cc\Desktop\YYoec\YYoec\YYClassLibrary\obj\Debug\YYClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\yyan-cc\Desktop\YYoec\YYoec\YYClassLibrary\obj\Debug\YYClassLibrary.dll
+C:\Users\yyan-cc\Desktop\YYoec\YYoec\YYClassLibrary\obj\Debug\YYClassLibrary.pdb
+G:\Computer Applications Development\ASP\YYoec\YYClassLibrary\bin\Debug\YYClassLibrary.dll
+G:\Computer Applications Development\ASP\YYoec\YYClassLibrary\bin\Debug\YYClassLibrary.pdb
+G:\Computer Applications Development\ASP\YYoec\YYClassLibrary\obj\Debug\YYClassLibrary.dll
+G:\Computer Applications Development\ASP\YYoec\YYClassLibrary\obj\Debug\YYClassLibrary.pdb
+G:\Computer Applications Development\ASP\YYoec\YYClassLibrary\obj\Debug\YYClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\yyan-cc\Desktop\YYoec\YYClassLibrary\bin\Debug\YYClassLibrary.dll
+C:\Users\yyan-cc\Desktop\YYoec\YYClassLibrary\bin\Debug\YYClassLibrary.pdb
+C:\Users\yyan-cc\Desktop\YYoec\YYClassLibrary\obj\Debug\YYClassLibrary.dll
+C:\Users\yyan-cc\Desktop\YYoec\YYClassLibrary\obj\Debug\YYClassLibrary.pdb
+C:\Users\Alex yan\Desktop\yyoec\YYoec\YYClassLibrary\bin\Debug\YYClassLibrary.dll
+C:\Users\Alex yan\Desktop\yyoec\YYoec\YYClassLibrary\bin\Debug\YYClassLibrary.pdb
+C:\Users\Alex yan\Desktop\yyoec\YYoec\YYClassLibrary\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex yan\Desktop\yyoec\YYoec\YYClassLibrary\bin\Debug\System.Web.Helpers.dll
+C:\Users\Alex yan\Desktop\yyoec\YYoec\YYClassLibrary\bin\Debug\System.Web.Mvc.dll
+C:\Users\Alex yan\Desktop\yyoec\YYoec\YYClassLibrary\bin\Debug\System.Web.Razor.dll
+C:\Users\Alex yan\Desktop\yyoec\YYoec\YYClassLibrary\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Alex yan\Desktop\yyoec\YYoec\YYClassLibrary\bin\Debug\System.Web.WebPages.dll
+C:\Users\Alex yan\Desktop\yyoec\YYoec\YYClassLibrary\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Alex yan\Desktop\yyoec\YYoec\YYClassLibrary\bin\Debug\System.Web.Helpers.xml
+C:\Users\Alex yan\Desktop\yyoec\YYoec\YYClassLibrary\bin\Debug\System.Web.Mvc.xml
+C:\Users\Alex yan\Desktop\yyoec\YYoec\YYClassLibrary\bin\Debug\System.Web.Razor.xml
+C:\Users\Alex yan\Desktop\yyoec\YYoec\YYClassLibrary\bin\Debug\System.Web.WebPages.xml
+C:\Users\Alex yan\Desktop\yyoec\YYoec\YYClassLibrary\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Alex yan\Desktop\yyoec\YYoec\YYClassLibrary\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Alex yan\Desktop\yyoec\YYoec\YYClassLibrary\obj\Debug\YYClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Alex yan\Desktop\yyoec\YYoec\YYClassLibrary\obj\Debug\YYClassLibrary.dll
+C:\Users\Alex yan\Desktop\yyoec\YYoec\YYClassLibrary\obj\Debug\YYClassLibrary.pdb
